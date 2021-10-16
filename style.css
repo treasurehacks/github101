@@ -1,0 +1,23 @@
+body.navigation-box {
+  padding-top: 50px;
+}
+.navigation {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+.navigation > img {
+  margin-right: auto;
+}
+.navigation a {
+  margin: 12px;
+  color: white;
+  text-decoration: none;
+}
