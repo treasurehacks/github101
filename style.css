@@ -1,3 +1,20 @@
+body {
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 12vw;
+  background-color: #cef;
+}
+h1, p, a {
+  text-align: center;
+}
+a {
+  display: block;
+}
+img {
+  display: block;
+  margin: auto;
+}
+
 body.navigation-box {
   padding-top: 50px;
 }
@@ -14,6 +31,7 @@ body.navigation-box {
   box-sizing: border-box;
 }
 .navigation > img {
+  margin-left: 0;
   margin-right: auto;
 }
 .navigation a {
