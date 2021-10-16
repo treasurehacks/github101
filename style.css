@@ -4,7 +4,7 @@ body {
   padding: 12vw;
   background-color: #cef;
 }
-h1, p, a {
+h1, h2, p, a {
   text-align: center;
 }
 a {
